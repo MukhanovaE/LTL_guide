@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LTLguide's documentation!
+Getting Started in Low Temperature Lab.
 ====================================
 
 .. toctree::
@@ -15,6 +15,10 @@ Welcome to LTLguide's documentation!
 Indices and tables
 ==================
 
+.. math::
+   :label: eq-euler
+
+   e^{i \pi} + 1 = 0
+
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
