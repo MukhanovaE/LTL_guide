@@ -8,15 +8,7 @@ Getting Started in Low Temperature Lab
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents
 
 
-
-
-
-.. math::
-   e^{i \pi} + 1 = 0
-   :label: eq-euler
-
-* :ref:`genindex`
-* :ref:`search`
+* :ref:`intro`

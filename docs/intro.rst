@@ -3,7 +3,7 @@ Formulas
 
 .. toctree::
    :maxdepth: 2
-   :caption: Содержание
+   :caption: Table of Contents
 
 .. math::
    :label: eq-pythagoras
