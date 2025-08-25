@@ -13,8 +13,9 @@ Getting Started in Low Temperature Lab
 
 
 
-   e^{i \pi} + 1 = 0
+
 .. math::
+   e^{i \pi} + 1 = 0
    :label: eq-euler
 
 * :ref:`genindex`
