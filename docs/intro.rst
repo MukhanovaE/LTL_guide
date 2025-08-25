@@ -1,6 +1,9 @@
 Formulas
 =======
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Содержание
 
 .. math::
    :label: eq-pythagoras
