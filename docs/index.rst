@@ -10,4 +10,4 @@ Getting Started in Low Temperature Lab
    :maxdepth: 2
    :caption: Table of Contents
 
-   intro
+   0. Introduction/index
