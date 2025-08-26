@@ -9,12 +9,13 @@ Getting Started in Low Temperature Lab
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents
+   :glob:
 
-   0. Introduction/index
-   1. Cryogenics/index
-   2. Microwave technique/index
-   3. Microwave measurement setup/index
-   4. DC measurements/index
-   5. Fabrication/index
-   6. Superconductivity/index
-   7. How not to break anything in the lab and stay alive/index
+   Chapters/0. Introduction/index
+   Chapters/1. Cryogenics/index
+   Chapters/2. Microwave technique/index
+   Chapters/3. Microwave measurement setup/index
+   Chapters/4. DC measurements/index
+   Chapters/5. Fabrication/index
+   Chapters/6. Superconductivity/index
+   Chapters/7. How not to break anything in the lab and stay alive/index
