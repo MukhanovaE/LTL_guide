@@ -1,4 +1,4 @@
-0. Intruduction
+4. DC measurements
 =================
 
 .. toctree::

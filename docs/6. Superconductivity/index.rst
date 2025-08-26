@@ -1,4 +1,4 @@
-0. Intruduction
+6. Superconductivity
 =================
 
 .. toctree::

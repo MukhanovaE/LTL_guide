@@ -1,4 +1,4 @@
-0. Intruduction
+3. Microwave measurement setup
 =================
 
 .. toctree::

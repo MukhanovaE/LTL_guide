@@ -1,4 +1,4 @@
-0. Intruduction
+7. How not to break anything in the lab and stay alive
 =================
 
 .. toctree::
